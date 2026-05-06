@@ -86,6 +86,9 @@
     - title: th-sjy
       url: http://www.th-sjy.com/
       description: th_sjy 专注软件汉化和资源分享
+    - title: 绿软小站
+      url: https://www.gndown.com/
+      description: 分享精品绿色软件
 
 - taxonomy: 图像相关
   icon: fa-regular fa-image
