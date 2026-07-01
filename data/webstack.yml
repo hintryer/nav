@@ -2,12 +2,15 @@
   icon: fa-solid fa-arrow-right
   links:
     - title: 在问
+      logo: 
       url: https://zaiwen.xueban.org.cn/chat/working-edition
       description: 高效问答｜让知识无界，智能触手可及
     - title: ChatGPT中文版
+      logo: 
       url: https://codenews.cc/chatgpt
       description: ChatGPT中文版在线使用、永久免费、无需登录。下面有AI导航网站
     - title: Free2gpt 免费ChatGPT
+      logo: 
       url: https://chat10.free2gpt.xyz/
       description: 打开即用 完全免费 无需魔法 无需登录 服务稳定 界面简洁 有额度
 
@@ -17,29 +20,37 @@
     - term: 网页开发
       links:
         - title: 菜鸟工具-HTML
+          logo: 
           url: https://www.jyshare.com/front-end/61/
           description: HTML/CSS/JS 在线工具 | 菜鸟工具
         - title: 自制HTML代码格式化
+          logo: 
           url: https://hincom.github.io/tool/code.html
           description: 自制HTML代码格式化
         - title: HTML运行与美化
+          logo: 
           url: https://codebeautify.org/htmlviewer
           description: HTML运行与美化
     - term: Markdown
       links:
         - title: 自制 Markdown 在线编辑器
+          logo: 
           url: https://hincom.github.io/tool/Markdown.html
           description: HTML2MD与格式化、本地保存
         - title: 开源Editor.md
+          logo: 
           url: https://pandao.github.io/editor.md/
           description: 开源Editor.md模块
         - title: 菜鸟工具－Markdown
+          logo: 
           url: https://www.jyshare.com/front-end/712/
           description: 简洁无广告，打开较快，引用Editor.md开源模块
         - title: 在线工具－Markdown
+          logo: 
           url: https://tool.lu/markdown/
           description: HTML2MD与格式化、本地保存
         - title: 锤子工具－Markdown
+          logo: 
           url: https://www.toolhelper.cn/Code/Markdown
           description: 引用Editor.md开源模块，添加保存功能
     - term: HTML2MD
