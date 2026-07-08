@@ -13,6 +13,26 @@
       logo: 
       url: https://chat10.free2gpt.xyz/
       description: 打开即用 完全免费 无需魔法 无需登录 服务稳定 界面简洁 有额度
+      
+- taxonomy: L站公益
+  icon: fa-solid fa-arrow-right
+  links:
+    - title: 黑与白公益站
+      logo: 
+      url: https://ai.hybgzs.com/
+      description: 接口聚合管理
+    - title: 黑与白附属福利站
+      logo: 
+      url: https://cdk.hybgzs.com
+      description: 黑与白附属福利站
+    - title: 「LINUX DO Credit」实时积分
+      logo: 
+      url: https://credit.linux.do/
+      description: 「LINUX DO Credit」实时积分
+    - title: CHY公益订阅站
+      logo: 
+      url: https://dy.chybenzun.top/
+      description: CHY公益订阅站
 
 - taxonomy: 开发工具
   icon: fa-solid fa-screwdriver-wrench
