@@ -17,6 +17,10 @@
 - taxonomy: L站公益
   icon: fa-solid fa-arrow-right
   links:
+    - title: L站
+      logo: 
+      url: https://linux.do/
+      description: L站
     - title: 黑与白公益站
       logo: 
       url: https://ai.hybgzs.com/
