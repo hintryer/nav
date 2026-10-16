@@ -36,6 +36,10 @@
       logo: images/logos/dy.chybenzun.top.png
       url: https://dy.chybenzun.top/
       description: CHY公益订阅站
+    - title: LD士多
+      logo: images/logos/linux.do.png
+      url: https://ldcstore.com/
+      description: LinuxDo社区 虚拟物品与服务 兑换中心  
 - taxonomy: 开发工具
   icon: fa-solid fa-screwdriver-wrench
   list:
